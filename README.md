@@ -2,7 +2,7 @@
 - 🅿️ Pronouns: He/Him
 - 📚 I’m a student at Cal State Fullerton (Major in CS, Minor in Econ)
 - 💻 I'm a passionate learner interested in all things CS.
-- 📲 Reach out through Instagram! @david.solano7
+- 📲 Reach out through Instagram! @davidjsolano
 
 
 <!---
