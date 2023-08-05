@@ -9,7 +9,7 @@
 
 - 📫 Send me a message through **dsolano7@csu.fullerton.edu**
 
-- 📄 Check out my Resume [https://github.com/DavidJSolano/Resume/blob/main/resume.pdf](https://github.com/DavidJSolano/Resume/blob/main/resume.pdf)
+- 📄 Check out my Resume [here](https://github.com/DavidJSolano/Resume/blob/main/resume.pdf)
 
 - ⚡ Fun fact **I know how to play 6 different instruments**
 
