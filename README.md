@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate software engineer at Cal State Fullerton (Major in CS, Minor in Econ)</h3>
 
-- :computer: I’m the current **President** of the Association of Computing Machinery at CSUF. [Check us out!](https://acmcsuf.com/)
+- :computer: I’m the current **Treasurer** of the Association of Computing Machinery at CSUF. [Check us out!](https://acmcsuf.com/)
 
 - 🔭 Check out my most recent project! [Path Find](https://github.com/DavidJSolano/pathfind)
 
